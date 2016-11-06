@@ -1,6 +1,6 @@
 // Kullanacağım kütüphane'ler
 #include <SPI.h>
-#include <Ethernet2.h>
+#include <Ethernet2.h> // Bu kütüphaneyi https://github.com/adafruit/Ethernet2 indire bilirsiniz
 
 // Button için kullanılacak pinler
 #define pin_22  22
@@ -319,8 +319,17 @@ void butonOku() {
   btn_22 = digitalRead( pin_22 );
   if (btn_22 == 1)
   {
+    // Kapasitiv button kullandığım için böyle yaptım
     digitalWrite(44, !digitalRead(44)); // Önce button'u oku sonra pin'i oku değilini al, yukarıdaki html ile aynı çalışması için
+
+    // Push button kullanımı daha kolaydır eğer push button kullanıyorsanız alttaki kodu yazmalısınız, üstteki kodu kapatmalısınız
+    // digitalWrite(pin_22, HIGH);
   }
+  //  else {
+  //    Push button kullanımı daha kolaydır eğer push button kullanıyorsanız alttaki kodu yazmalısınız
+  //    digitalWrite(pin_22, LOW);
+  // Eğer push button kullanacaksanız alttaki if'leri de buna benzetmelisiniz
+  //  }
 
   btn_24 = digitalRead( pin_24 );
   if (btn_24 == 1)
