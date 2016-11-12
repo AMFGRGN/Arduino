@@ -16,7 +16,11 @@ Bazı öğrenci arkadaşlar yada bu işe hevesi olup yeni başlayan arkadaşlar 
 Pin tanımlaması ve for dögüsü kullanımı
 
 # KaraSimsek.ino
+https://www.youtube.com/watch?v=UORZ4MaeHMA
+
 For içinde if kullanımına basit örnek
 
 # Rastgele.ino
+https://www.youtube.com/watch?v=qPv9_-p_fyY
+
 For içinde Random kullanımı
