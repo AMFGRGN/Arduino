@@ -24,3 +24,7 @@ For içinde if kullanımına basit örnek
 https://www.youtube.com/watch?v=qPv9_-p_fyY
 
 For içinde Random kullanımı
+
+# Bazı Videolarım
+
+https://www.youtube.com/watch?v=6uFTnOgtbcM
