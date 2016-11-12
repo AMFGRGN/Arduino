@@ -27,5 +27,5 @@ For içinde Random kullanımı
 
 # Bazı Videolarım
 
-https://www.youtube.com/watch?v=6uFTnOgtbcM
+https://www.youtube.com/watch?v=6uFTnOgtbcM  
 https://www.youtube.com/watch?v=tx8VwPjeJRQ
