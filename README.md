@@ -25,6 +25,12 @@ https://www.youtube.com/watch?v=qPv9_-p_fyY
 
 For içinde Random kullanımı
 
+# PolisCakarlar.ino
+https://www.youtube.com/watch?v=TkVwLfpMVBg
+
+Basit for kullanımı.
+Farklı yollardan pinleri set etmek, farklı değişkenler tanımı ve kısa yolları kullanarak işinizi kolaylaştırmak için.
+
 # Bazı Videolarım
 
 https://www.youtube.com/watch?v=6uFTnOgtbcM  
