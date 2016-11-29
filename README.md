@@ -31,6 +31,11 @@ https://www.youtube.com/watch?v=TkVwLfpMVBg
 Basit for kullanımı.
 Farklı yollardan pinleri set etmek, farklı değişkenler tanımı ve kısa yolları kullanarak işinizi kolaylaştırmak için.
 
+# KayanLedler.ino
+
+
+Çok sayıda for kullanımı ve for içinde if kullanımı
+
 # Bazı Videolarım
 
 https://www.youtube.com/watch?v=6uFTnOgtbcM  
