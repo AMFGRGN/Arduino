@@ -32,7 +32,7 @@ Basit for kullanımı.
 Farklı yollardan pinleri set etmek, farklı değişkenler tanımı ve kısa yolları kullanarak işinizi kolaylaştırmak için.
 
 # KayanLedler.ino
-
+https://www.youtube.com/watch?v=HA3eSL_NBe8
 
 Çok sayıda for kullanımı ve for içinde if kullanımı
 
